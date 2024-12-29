@@ -1,0 +1,26 @@
+.navbar-collapse{
+    ul{
+        gap:5px;
+        li{
+            .nav-link:hover{
+                background-color: #e9ecef;
+             color:#15616d;
+             border-radius: 10px;
+             cursor: pointer;
+            
+            }
+        }
+    }
+}
+ 
+ 
+ .nav-link{
+    transition: all 0.1s;
+ }
+
+
+
+
+
+
+ 

@@ -1,0 +1,32 @@
+.main_con_collection{
+    background:linear-gradient(180deg, #fde1ff, #e1ffea22 60%) ;
+    .offers-left{
+        height: 90vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+       
+    }
+}
+ h1{
+    color: #171717;
+    font-size: 60px;
+
+}
+p{
+    color: #171717;
+  font: 20px;
+  font-weight: 500;
+}
+.check-now{
+    background-color: #ff4141;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 75px;
+}
+.offers-right{
+display: flex;
+align-items: center;
+justify-content: center;
+}
